@@ -7,6 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://Sauroniux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Second Page</title>
+      <link>https://Sauroniux.github.io/page2/</link>
+      <pubDate>Sat, 26 Nov 2022 12:13:54 +0200</pubDate>
+      
+      <guid>https://Sauroniux.github.io/page2/</guid>
+      <description>
+while(true) cat-&amp;gt;hangInThere(); </description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://Sauroniux.github.io/about/</link>
       <pubDate>Sat, 26 Nov 2022 11:29:38 +0200</pubDate>
